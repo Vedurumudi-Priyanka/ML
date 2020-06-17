@@ -480,7 +480,3 @@ Use Pandas to clean and prepare data
 Use scikit-learn to build a machine-learning model
 Use Matplotlib to visualize the results
 image.png
-
-image.png
-
-By- Ambika (MSP IGDTUW)
