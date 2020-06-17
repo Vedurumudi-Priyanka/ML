@@ -2,6 +2,7 @@
 Introduction to Azure Notebooks
 
 Introduction to Python
+
 Python is one of the world's most popular programming languages.
 It's used extensively in the data science community for machine learning and statistical analysis.
 One of the reasons it's so popular is the availability of thousands of open-source libraries such as NumPy, Pandas, Matplotlib, and scikit-learn, which enable programmers and researchers alike to explore, transform, analyze, and visualize data.
